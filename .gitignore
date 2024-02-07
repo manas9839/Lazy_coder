@@ -1,0 +1,8 @@
+__pycache__/
+.vscode/
+db.sqlite3
+migrations/
+features.txt
+track.txt
+.env
+media/
