@@ -41,7 +41,7 @@ Lazy Coder Blog boasts an intuitive and user-friendly interface, ensuring easy n
 
 
 ## Demo
-You see, i highly encourage the visitors to got to the [Site](https://lazycoder-production.up.railway.app/) and take live demo of Lazy_coder, but still i am attaching a Screenshot.
+i am attaching a Screenshot.
 
 ![image](https://github.com/fadingreality1/Lazy_coder/assets/114291201/ad259467-4ead-42ef-813e-e8ee6948f8fa)
 
@@ -128,7 +128,6 @@ python manage.py runserver
 ```
 
 Your project should be running at localhost at this point.
-If you encounter any error till this point, either search on google or contact me via [linkedin](https://www.linkedin.com/in/kunalvermait/) or [email](kunalverma.learn@gmail.com). I will be happy to help you out.
 
 
 ## Lessons Learned
@@ -139,8 +138,6 @@ During the development of the Lazy Coder project, I gained valuable knowledge an
 - Sending Emails with Django: I learned how to implement email functionality using Django's built-in email sending capabilities. This allowed me to send welcome emails to new users upon signup and incorporate email notifications into the application.
 
 - Database Setup: I acquired knowledge on configuring and managing databases within the Django framework. This involved setting up database connections, defining models and relationships, and executing database migrations to ensure data integrity.
-
-- Deployment of Django Apps: I learned how to deploy Django applications on live servers, making them accessible to users. This encompassed configuring server environments, managing dependencies, and ensuring proper deployment procedures for a smooth user experience.
 
 - Bug Fixing and Exception Handling: Throughout the development process, I encountered and resolved various bugs and exceptions. This allowed me to develop effective debugging techniques and learn how to handle errors gracefully, ensuring the stability and reliability of the application.
 
