@@ -87,7 +87,7 @@ the process is as follows:-
 
 - First, clone the master branch.
 ```bash
-git clone -b master --single-branch https://github.com/fadingreality1/Lazy_coder.git
+git clone -b master --single-branch https://github.com/manas9839/Lazy_coder.git
 ```
 This command will clone only the master branch on your local machine.
 
