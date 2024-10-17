@@ -167,5 +167,5 @@ During the development of the Lazy Coder project, I gained valuable knowledge an
 
 ## Authors
 
-- [@KunalVerma](https://github.com/fadingreality1)
+- [@ManasAwasthi]([https://github.com/manas9839])
 
