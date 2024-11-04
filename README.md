@@ -45,7 +45,7 @@ i am attaching a Screenshot.
 
 ![image](https://github.com/fadingreality1/Lazy_coder/assets/114291201/ad259467-4ead-42ef-813e-e8ee6948f8fa)
 
-also this is the link of live ![site]((https://lazycoder-production.up.railway.app/)) hope you may find it worthy of one visit.
+also this is the link of live [Site](https://lazycoder-production.up.railway.app/) hope you may find it worthy of one visit.
 
 ## Environment Variables
 
